@@ -4,6 +4,6 @@
 
 ---
 `
-**LOAD "BROWSERBAD",8,8
-RUN**
+LOAD "BROWSERBAD",8,8
+RUN
 `
